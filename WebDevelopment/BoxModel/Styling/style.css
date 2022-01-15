@@ -1,0 +1,23 @@
+.p1 {
+    background-color: black;
+}
+
+.p2 {
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.my {
+    color: white;
+}
+
+.cloud {
+    color: aqua;
+}
+
+.p3 {
+    color: blueviolet;
+    background-color: cornflowerblue;
+    text-align: right;
+}
