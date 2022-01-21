@@ -1,0 +1,49 @@
+.searchbutton {
+    height: 25px;
+    width: 100px;
+    border-radius: 20%;
+    color: teal;
+    border-color: aqua;
+    border-radius: 30%;
+    /*border: 100px; */ 
+    
+}
+
+.searchcontainer {
+    padding-left: 40px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+
+.pluscontainer {
+    width: 20px;
+    height: 20px;
+    margin-left: 3px;
+    padding-left: 35px;
+}
+
+.plusbutton {
+    border-radius: 40px; /* play with border to try and fix this */
+    background-color: aquamarine;
+    color: white;
+    height: 30px;
+    width: 30px;
+    border: 0px;
+}
+
+.accountbutton {
+    background-color: blue;
+    color: white;
+    height: 25px;
+    width: 120px;
+    box-shadow: 10px 5px 5px black;
+}
+
+.accountcontainer {
+    margin-top: 25px;
+    margin-left: 35px;
+}
+
+/* For later assignment GitHub blocks, if you fix width and then leave height like 
+100%, then it should adjust properly. If you set width, then you allow
+height to adjust. Work around for some problem with it. */
