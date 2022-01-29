@@ -1,0 +1,85 @@
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    padding-top: 10px;
+}
+.top-nav {
+    height: 150px;
+    background-color: green;
+    margin: 20px;
+    margin-top: 10px; /*This can be fine tuned a bit*/
+}
+.side-nav {
+    width: 180px;
+    height: 380px;
+    background-color: blue;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.main {
+    /*height: 1600px;
+    width: 750px;*/
+    height: 450px;
+    width: 725px;
+    background-color: red;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.sub-content {
+    /*height: 200px;
+    width: 210px;*/
+    background-color: yellow;
+    width: 210px;
+    height: 250px;
+    /*padding-top: 10px; This seems to just make the yellow boxes expand
+    downward. Padding bottom doesn't make any observable difference*/
+    margin-left: 10px;
+    margin-top: 20px;
+}
+#advertisement {
+    /*height: 120px;
+    width: 660px;*/
+    height: 100px; /*The colon was missing here! Spent so much time 
+    trying to fix this*/
+    width: 660px;
+    background-color: purple;
+    /*This doesn't seem to be initializing for some reason*/
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.block {
+    display: block;
+    vertical-align: auto; /*This isn't working for some reason*/
+}
+
+#block {
+    display: block;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.block2 {
+    display: block;
+}
+
+.inline2 {
+    display: inline:block;
+}
+
+.advertdiv {
+    display: block;
+    height: 110;
+    width: 620;
+}
+
+.subcontentdiv {
+    display: block;
+}
