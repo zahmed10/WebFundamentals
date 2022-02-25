@@ -1,0 +1,46 @@
+.nav {
+    display: flex;
+    width: 980px;
+    height: 70px;
+    background-color: gray;
+}
+
+.nav-links {
+    display: flex;
+    width: 1000px;
+    height: 400px;
+    margin-top: 25px;
+}
+
+.listitem1 {
+    margin-left: 360px;
+    margin-right: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-title {
+    color: white;
+    margin-top: 15px;
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.listitem2 {
+    margin-right: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.listitem3 {
+    margin-right: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.listitem4 {
+    margin-right: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    background-color: aqua;
+    box-shadow: 5px 5px 5px;
+}
