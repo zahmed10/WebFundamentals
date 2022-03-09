@@ -1,0 +1,33 @@
+.header {
+    height: 200px;
+    width: 900px;
+    background-color: lightblue;
+    margin-left: 100px;
+}
+
+/*.header-blue {
+    height: 200px;
+    width: 900px;
+    background-color: lightblue;
+}*/
+
+.info {
+    position: absolute;
+    top: 05px;
+    left: 150px;
+}
+
+.pic {
+    height: 150px;
+    width: 140px;
+    position: absolute;
+    top: 120px;
+    left: 60px;
+}
+
+.student-info {
+    position: absolute;
+    top: 260px;
+    left: 60px;
+    width: 600px;
+}
