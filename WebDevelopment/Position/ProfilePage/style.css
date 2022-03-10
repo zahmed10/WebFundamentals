@@ -1,0 +1,184 @@
+.nav {
+    display: flex;
+    width: 980px;
+    height: 70px;
+    background-color: black;
+    margin-left: 200px;
+}
+
+.container {
+    width: 980px;
+    height: 900px;
+    background-color:white;
+    margin-left: 200px;
+    display: flex;
+
+}
+
+.left {
+    flex: 2;
+    background-color: white;
+}
+
+.right {
+    flex: 1;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.nav-links {
+    display: flex;
+    width: 1000px;
+    height: 400px;
+    margin-top: 25px;
+}
+
+.listitem1 {
+    margin-left: 20px;
+    margin-right: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.nav-title {
+    color: white;
+    margin-top: 15px;
+    margin-left:80px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.listitem2 {
+    margin-right: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.listitem3 {
+    margin-right: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.listitem4 {
+    margin-right: 40px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 190px;
+}
+
+.btn {
+    background-color: aqua;
+    box-shadow: 3px 3px 3px;
+    color: white;
+    width: 80px;
+}
+
+.pic {
+    height: 60px;
+    width: 60px;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+.header {
+    width: 630px;
+    height: 100px;
+    background-color: lightblue;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.top-left {
+    padding-left: 20px;
+}
+
+.student-info {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.education-2 {
+    background-color: darkgray;
+    color: white;
+    width: 630px;
+    margin-right: 20px;
+    padding-left: 20px;
+}
+
+.education-info {
+    margin-left: 20px;
+}
+
+.connections {
+    display: flex;
+    background-color: gray;
+    height: 60px;
+}
+
+.two {
+    background-color: darkgray;
+    margin-left: 20px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+}
+
+.conn-requests {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.todd-phil {
+    display: flex;
+    margin-top: 20px;
+}
+
+.pictures {
+    display: inline;
+    height: 40px;
+    width: 40px;
+    margin-right: 40px;
+}
+
+.name {
+    margin-right: 2px;
+}
+
+.check {
+    height: 40px;
+    width: 40px;
+    margin-left: 90px;
+}
+
+.x {
+    height: 40px;
+    width: 40px; 
+}
+
+.your-connections {
+    display: flex;
+    background-color: gray;
+    margin-top: 20px;
+}
+
+.fivehundred {
+    display: inline;
+    background-color: darkgray;
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-top: 5px;
+}
+
+.inline {
+    margin-left: 20px;
+}
+
+.names {
+    display: inline;
+}
+
+.hyperlink {
+    margin-top: 40px;
+}
