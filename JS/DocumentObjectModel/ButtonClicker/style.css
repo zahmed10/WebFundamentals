@@ -1,0 +1,48 @@
+* {
+    margin: 0 auto; 
+}
+
+.container {
+    width: 1000px;
+    height: 1000px;
+    background-color: white;
+}
+
+.title-bar {
+    width: 1000px;
+    height: 100px;
+    background-color: #CCCCCC;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.left {
+    width: 600px;
+    height: 800px;
+    background-color: white;
+}
+
+.right {
+    width: 300px;
+    height: 300px;
+    background-color: white;
+}
+
+.content-container {
+    display: flex;
+    margin-top: 20px;
+}
+
+.left-left {
+    display: flex;
+    border: 2px solid;
+    margin-top: 50px;
+    width: 400px;
+}
+
+.defintion {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
